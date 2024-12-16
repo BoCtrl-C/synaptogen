@@ -1,0 +1,9 @@
+[submodule "SCM"]
+	path = SCM
+	url = https://github.com/kpisti/SCM.git
+[submodule "connectivity_analysis"]
+	path = connectivity_analysis
+	url = https://github.com/cengenproject/connectivity_analysis.git
+[submodule "pybrain"]
+	path = pybrain
+	url = https://github.com/pybrain/pybrain.git
